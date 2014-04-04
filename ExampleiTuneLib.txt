@@ -1,0 +1,238 @@
+﻿Name	Artist	Composer	Album	Grouping	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating	Location
+Back in Black	ACDC					4102577	255						20/02/2013 17:24	16/07/2012 21:22	128	44100		MPEG audio file			15	09/05/2013 22:53	1	18/03/2013 19:42	80	B:\Music\Back in Black.mp3
+Highway to Hell	ACDC					3345238	208						20/02/2013 17:24	16/07/2012 21:22	128	44100		MPEG audio file			8	17/03/2013 14:37			80	B:\Music\Highway to Hell with lyrics.mp3
+You Shook Me All Night Long	ACDC					3646599	227						20/02/2013 17:23	16/07/2012 21:22	128	44100		MPEG audio file			7	25/04/2013 13:54	2	20/08/2012 11:05	80	B:\Music\You Shook Me All Night Long.mp3
+Dream 	Aerosmith					4248443	264						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			14	21/04/2013 20:03	1	07/05/2013 13:47		B:\Music\Dream On [Lyrics] - Aerosmith.mp3
+I Don't Wanna Miss A Thing	Aerosmith					4671021	291						20/02/2013 17:29	16/07/2012 21:22	128	44100		MPEG audio file			3	12/04/2013 13:58	2	07/05/2013 13:48		B:\Music\I Don't Wanna Miss A Thing.mp3
+I need a Dollar	Aloe Blacc					5897469	245						20/02/2013 17:35	16/07/2012 21:22	192	44100		MPEG audio file			6	09/05/2013 20:49	1	28/02/2013 16:48		B:\Music\I need a Dollar.mp3
+Loving You Is Killing Me	Aloe Blacc					3150483	195						20/02/2013 17:36	16/07/2012 21:22	128	44100		MPEG audio file			6	29/03/2013 15:52	3	23/04/2013 09:52		B:\Music\Loving You Is Killing Me.mp3
+Walk The Moon	Anna Sun					5202745	324						30/11/2012 21:50	16/07/2012 21:22	128	44100	254	MPEG audio file			17	26/05/2013 18:15				B:\Music\Walk The Moon - Anna Sun.mp3
+Bet You Look Good On The Dancefloor	Arctic Monkeys					2814877	175						20/02/2013 17:53	16/07/2012 21:22	128	44100		MPEG audio file			11	26/05/2013 18:20	4	18/04/2013 19:23		B:\Music\Bet You Look Good On The Dancefloor.mp3
+From the ritz to the rubble	Arctic Monkeys					3113292	193						20/02/2013 17:51	16/07/2012 21:22	128	44100		MPEG audio file			8	29/03/2013 14:22				B:\Music\From the ritz to the rubble.mp3
+Mardy Bum	Arctic Monkeys					2715795	168						20/02/2013 17:52	16/07/2012 21:22	128	22050		MPEG audio file			12	09/05/2013 23:13	2	28/02/2013 16:44		B:\Music\Mardy Bum.mp3
+When The Sun Goes Down	Arctic Monkeys					3340239	207						20/02/2013 17:52	16/07/2012 21:22	128	44100		MPEG audio file			5	10/05/2013 01:01	1	12/04/2013 13:59		B:\Music\When The Sun Goes Down.mp3
+Anything You Want	Belleruche					3490407	217						07/05/2013 13:50	31/07/2012 19:59	128	44100		MPEG audio file			17	13/04/2013 21:46	1	28/02/2013 16:40		B:\Music\Anything You Want.mp3
+Balance	Belleruche					4024420	250						20/02/2013 18:08	31/07/2012 19:55	128	44100		MPEG audio file			12	22/04/2013 20:03	1	28/02/2013 16:42		B:\Music\Balance.mp3
+Clockwatching	Belleruche					4494629	280						20/02/2013 18:08	31/07/2012 19:48	128	44100		MPEG audio file			12	13/02/2013 16:11				B:\Music\Clockwatching.mp3
+Fuzz Face	Belleruche					2938014	182						20/02/2013 18:09	31/07/2012 19:51	128	44100		MPEG audio file			17	09/05/2013 22:41	1	28/02/2013 16:41		B:\Music\Fuzz Face.mp3
+Itch	Belleruche					4822637	200						19/11/2012 00:52	18/11/2012 23:39	192	44100		MPEG audio file			6	13/04/2013 21:50	1	28/02/2013 16:47		B:\Music\Itch.mp3
+Stormbird	Belleruche					2878377	178						20/02/2013 18:10	31/07/2012 19:50	128	44100		MPEG audio file			18	26/04/2013 13:53	3	28/02/2013 16:41		B:\Music\Stormbird.mp3
+Start Over	Beyonce 					1472628	209						04/09/2012 23:26	16/07/2012 21:22	8	22050		MPEG audio file			6	14/04/2013 13:27	1	24/07/2012 16:39		B:\Music\Start Over - Beyonc Full Original NEW SONG 2011 Audio.mp3
+Lovely Day	Bill Withers					4084209	254						20/02/2013 18:19	16/07/2012 21:22	128	44100		MPEG audio file			8	22/04/2013 14:09	1	17/10/2012 15:09		B:\Music\Lovely Day.mp3
+Dancing With Myself	Billy Idol					3265417	203						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			5	12/03/2013 13:52				B:\Music\Billy Idol - Dancing With Myself.mp3
+Iron Man	Black Sabbath					5649866	352						30/11/2012 21:47	16/07/2012 21:22	128	22050		MPEG audio file			9	09/05/2013 23:03	2	14/04/2013 15:05		B:\Music\Iron Man-Black Sabbath-Lyrics Included.mp3
+Everybody Needs Somebody	Blues Brothers					3274203	203						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			10	26/05/2013 19:09	1	03/07/2012 09:21		B:\Music\Blues Brothers - Everybody Needs Somebody.mp3
+It's my life 	Bon Jovi					3871868	241						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			6	18/04/2013 12:08	3	14/04/2013 16:39		B:\Music\Bon Jovi - It 39s my life w  lyrics.mp3
+Living on a Prayer 	Bon Jovi 					4014817	250						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			3	19/03/2013 19:20	1	24/07/2012 07:20		B:\Music\Bon Jovi - Living on a Prayer Lyrics.mp3
+ Always	Bon Jovi  					5821377	363						19/02/2013 18:58	08/02/2013 16:40	128	32000		MPEG audio file			4	03/04/2013 08:43				B:\Music\Bon Jovi   Always.mp3
+Because We Can	Bon Jovi   					3876809	241						19/02/2013 18:58	08/02/2013 16:40	128	32000		MPEG audio file			10	26/05/2013 18:28				B:\Music\Bon Jovi   Because We Can.mp3
+Wanted Dead Or Alive	Bon Jovi   					4012175	250						19/02/2013 18:58	08/02/2013 16:40	128	32000		MPEG audio file			10	26/05/2013 18:32	1	17/04/2013 09:57		B:\Music\Bon Jovi   Wanted Dead Or Alive.mp3
+You Give Love A Bad Name	Bon Jovi   					3757011	234						19/02/2013 18:58	08/02/2013 16:41	128	32000		MPEG audio file			8	26/05/2013 18:24	2	26/05/2013 18:33		B:\Music\Bon Jovi   You Give Love A Bad Name.mp3
+More than A Feeling	Boston					4580731	285						30/11/2012 21:46	16/07/2012 21:22	128	22050		MPEG audio file			13	12/04/2013 14:41	1	28/02/2013 16:42		B:\Music\Boston- More than A Feeling.mp3
+Born In The U.S.A.	Bruce Springsteen					4549812	283						30/11/2012 21:46	16/07/2012 21:23	128	22050		MPEG audio file			3	03/03/2013 15:43	1	05/03/2013 17:16		B:\Music\Bruce Springsteen - Born In The U.S.A..mp3
+Runaway Baby 	Bruno Mars					2446629	152						30/11/2012 21:46	16/07/2012 21:23	128	44100		MPEG audio file			10	12/03/2013 15:43	1	07/05/2013 13:54		B:\Music\Bruno Mars - Runaway Baby  (WITH LYRICS).mp3
+Jolie Coquine	Caravan Palace 					3643115	226						18/11/2012 22:50	29/07/2012 23:16	128	44100		MPEG audio file			12	26/05/2013 19:39	1	07/05/2013 13:54		B:\Music\Caravan Palace - Jolie Coquine [CLIP].mp3
+Forget You	Cee Lo Green					5628760	233						30/11/2012 21:46	16/07/2012 21:22	192	44100		MPEG audio file			12	17/04/2013 10:01	1	22/04/2013 20:29		B:\Music\Cee Lo Green - Forget You.mp3
+Express Yourself	Charles Wright and The Watts					2191034	2180						20/06/2012 08:18	16/07/2012 21:22	8	22050		MPEG audio file			2	21/10/2012 19:43	2	07/05/2013 13:55		B:\Music\Charles Wright  The Watts 103Rd Street Rhythm Band-Express Yourself Mocean Worker.mp3
+Every Teardrop Is A Waterfall	Coldplay 					4013991	249						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			4	16/12/2012 10:19	1	05/03/2013 12:26		B:\Music\Coldplay - Every Teardrop Is A Waterfall.mp3
+Paradise	Coldplay 					4174466	259						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			8	12/03/2013 13:48	2	07/05/2013 13:55		B:\Music\Coldplay - Paradise.mp3
+Sunshine of Your Love	Cream					4330792	269						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			7	22/04/2013 12:49	1	18/04/2013 19:22		B:\Music\Sunshine of Your Love by Cream.mp3
+Tales of Brave Ulysses	Cream					2789778	173						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			12	12/04/2013 13:20	1	07/06/2012 20:08		B:\Music\Cream-Tales of Brave Ulysses.mp3
+White Room	Cream 					4845290	301						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			11	12/04/2013 13:25	1	02/08/2012 16:48		B:\Music\Cream - White Room.mp3
+Move On Up	Curtis Mayfield					3471049	216						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			6	08/05/2013 18:43	3	07/05/2013 13:56		B:\Music\Curtis Mayfield - Move On Up.mp3
+Pusherman	Curtis Mayfield					4891691	304						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			5	26/05/2013 18:39	3	07/05/2013 15:33		B:\Music\Curtis Mayfield - Pusherman.mp3
+The Blower's Daughter 	Damien Rice					4723263	294						30/11/2012 21:46	16/07/2012 21:22	128	44100	254	MPEG audio file			16	26/05/2013 18:44				B:\Music\Damien Rice - The Blower 39s Daughter - Official Video.mp3
+Delicate	Damien Rice					5012058	312						30/11/2012 21:46	16/07/2012 21:22	128	44100	254	MPEG audio file			14	14/04/2013 09:54	1	03/10/2012 16:58		B:\Music\Damien Rice-Delicate.mp3
+Cannonball 	Damien Rice 					4434861	276						30/11/2012 21:46	16/07/2012 21:22	128	44100	254	MPEG audio file			13	02/05/2013 12:01	2	26/05/2013 18:49		B:\Music\Damien Rice - Cannonball - Official Video.mp3
+9 Crimes	Damien Rice 					3602283	224						30/11/2012 21:46	16/07/2012 21:22	128	44100	252	MPEG audio file			25	26/05/2013 18:52	2	26/05/2013 18:45		B:\Music\Damien Rice - 9 Crimes - Official Video.mp3
+Bohemian Like You	The Dandy Warhols					3410454	212						08/02/2013 23:31	16/07/2012 21:22	128	44100		MPEG audio file			12	09/05/2013 23:10				B:\Music\Bohemian Like You.mp3
+Golden Years	David Bowie					4930978	204						30/11/2012 21:47	16/07/2012 21:22	192	44100		MPEG audio file			5	29/03/2013 17:53	1	07/05/2013 13:56		B:\Music\Golden Years- David Bowie.mp3
+The Mambo Craze	De Phazz					3012708	188						30/11/2012 21:49	31/07/2012 20:43	128	44100		MPEG audio file			8	09/05/2013 19:01	1	28/02/2013 17:48		B:\Music\The Mambo Craze- De Phazz.mp3
+Animal	Def Leppard					3930378	244						30/11/2012 21:46	16/07/2012 21:23	128	44100		MPEG audio file			10	11/05/2013 02:07	1	07/05/2013 13:57		B:\Music\Def Leppard - Animal.mp3
+Pour Some Sugar On Me 	Def Leppard 					4706545	293						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			11	03/03/2013 16:08	2	25/10/2012 13:21		B:\Music\Def Leppard - Pour Some Sugar On Me (lyrics) - great quality (1).mp3
+ Rock of Ages	Def Leppard  					4055571	252						19/02/2013 18:59	09/02/2013 13:17	128	32000		MPEG audio file			8	10/05/2013 01:05				B:\Music\Def Leppard   Rock of Ages.mp3
+Bringin' On The Heartbreak	Def Leppard   					4435745	276						19/02/2013 18:58	09/02/2013 13:17	128	32000		MPEG audio file			5	26/05/2013 19:44	4	02/05/2013 19:10		B:\Music\Def Leppard   Bringin' On The Heartbreak.mp3
+Hysteria	Def Leppard   					5702927	355						19/02/2013 18:59	09/02/2013 13:17	128	32000		MPEG audio file			7	26/05/2013 19:50				B:\Music\Def Leppard   Hysteria.mp3
+Long Long Way to Go 	Def Leppard   					4090139	254						19/02/2013 18:59	09/02/2013 13:17	128	32000		MPEG audio file			8	26/05/2013 19:55	1	29/03/2013 16:40		B:\Music\Def Leppard   Long Long Way to Go   Music Video.mp3
+Diga Diga Doo	The Drapers  					2886263	179						19/02/2013 19:00	08/11/2012 20:26	128	32000		MPEG audio file			6	26/05/2013 20:07	2	13/01/2013 18:24		B:\Music\The Drapers   Diga Diga Doo (Original Album Version).mp3
+Il Pericolo No 1 La Donna	The Drapers   					3723779	231						19/02/2013 19:00	25/11/2012 14:02	128	32000		MPEG audio file			4	29/03/2013 17:31				B:\Music\The Drapers   Il Pericolo No 1 La Donna (egoFM MG Bassline).mp3
+Hey Man 	Eels					2947751	183						30/11/2012 21:47	16/07/2012 21:23	128	44100		MPEG audio file			19	07/05/2013 16:21				B:\Music\Hey Man - Eels  WITH LYRICS (1).mp3
+Mr Es beautiful blues 	Eels 					3323929	206						30/11/2012 21:46	16/07/2012 21:23	128	44100		MPEG audio file			13	02/05/2013 19:14				B:\Music\Eels - Mr Es beautiful blues (1).mp3
+Next To Me	Emeli Sande					3378646	210						19/02/2013 20:17	16/07/2012 21:22	128	44100	254	MPEG audio file			4	29/03/2013 17:14	1	15/10/2012 12:23		B:\Music\Emeli Sand - Next To Me.mp3
+Best Of My Love	The Emotions	The McKays/M White	100 Disco Hits [Disc 2]		Dance & House	7641264	217	2	5	11	20	1977	04/09/2012 23:10	16/07/2012 21:22	256	44100		AAC audio file			6	08/05/2013 18:18	2	28/02/2013 16:47		B:\Music\Best Of My Love.m4a
+Bring Me To Life	Evanescence					1900632	237						16/02/2010 01:22	16/07/2012 21:22	64	22050		MPEG audio file			1	01/09/2012 16:10	2	21/02/2013 17:16		B:\Music\Bring me to life.mp3
+My Immortal	Evanescence					2134890	266						04/09/2012 23:23	16/07/2012 21:23	64	22050		MPEG audio file			1	19/03/2013 20:05	1	16/07/2012 11:07		B:\Music\My Immortal.mp3
+ Go Your Own Way	Fleetwood Mac					3602710	224						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			11	22/04/2013 12:33				B:\Music\Fleetwood Mac - Go Your Own Way (HQ) (1).mp3
+Landslide	Fleetwood Mac					4609313	229						30/11/2012 21:47	16/07/2012 21:22	160	22050		MPEG audio file			11	26/04/2013 13:57				B:\Music\Landslide by Fleetwood Mac with lyrics.mp3
+Never Going Back Again	Fleetwood Mac					2253962	139						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			16	09/05/2013 17:27	5	15/04/2013 17:05		B:\Music\Fleetwood Mac - Never Going Back Again.mp3
+Songbird	Fleetwood Mac					3295920	205						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			7	17/04/2013 10:58	4	05/03/2013 12:47		B:\Music\Fleetwood Mac - Songbird.mp3
+Don't Stop Color On The Walls	Foster The People					2889634	179						30/11/2012 21:46	16/07/2012 21:22	128	44100	254	MPEG audio file			23	26/05/2013 20:13	2	07/05/2013 14:00		B:\Music\Foster The People - Don 39t Stop Color On The Walls.mp3
+Call It What You Want	Foster The People 					3879486	241						30/11/2012 21:46	16/07/2012 21:22	128	44100	254	MPEG audio file			20	26/05/2013 20:20	1	07/05/2013 14:00		B:\Music\Foster The People - Call It What You Want.mp3
+Houdini	Foster The People 					3251902	202						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			19	26/05/2013 20:23				B:\Music\Foster The People - Houdini.mp3
+Pumped Up Kicks	Foster The People 					4105477	255						30/11/2012 21:46	16/07/2012 21:22	128	44100	254	MPEG audio file			16	26/05/2013 20:27	1	09/05/2013 18:42		B:\Music\Foster The People - Pumped Up Kicks.mp3
+Fallen Angel	Gabrielle					1656784	1646						04/09/2012 23:18	16/07/2012 21:22	8	22050		MPEG audio file			20	26/05/2013 21:23	1	21/04/2013 19:30		B:\Music\Fallen Angel By Gabrielle.mp3
+Out Of Reach	Gabrielle					3307205	205						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			16	26/05/2013 21:32				B:\Music\Out Of Reach - Gabrielle.mp3
+Sometimes	Gabrielle					3760138	234						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			15	26/05/2013 21:39	2	21/04/2013 19:34		B:\Music\Meredith & Derek - Sometimes (Gabrielle).mp3
+Tell me what you dream 	Gabrielle					3835098	238						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			9	26/05/2013 21:43	2	21/04/2013 19:31		B:\Music\Gabrielle -Tell me what you dream - by Ciko.mp3
+Don't Need The Sun To Shine	Gabrielle 					3316416	206						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			14	26/05/2013 21:58	1	21/04/2013 19:37		B:\Music\Gabrielle - Don't Need The Sun To Shine (To Make Me Smile).mp3
+Gone Daddy Gone	Gnarls Barkley	Gordon Gano/Willie Dixon	St. Elsewhere		Hip Hop/Rap	3557732	148	1	1	4		2006	04/09/2012 23:19	16/07/2012 21:23	192	44100	255	MPEG audio file		 0000188D 00001713 0000B624 0000B1E2 000130CB 000130CB 00009317 000091BF 0000CE87 0001857D	4	08/11/2012 12:09	2	12/03/2013 14:51		B:\Music\gonedaddygone.mp3
+Crazy	Gnarls Barkley				Rap & Hip Hop	4357943	181			1			02/02/2012 03:35	16/07/2012 21:22	192	44100		MPEG audio file		 	10	09/05/2013 22:33				B:\Music\Crazy.mp3
+No Sugar 	Gramophonedzie					5355774	333						19/02/2013 19:09	08/11/2012 20:26	128	32000		MPEG audio file			2	11/12/2012 23:18	1	07/05/2013 14:02		B:\Music\Joey Negro  Gramophonedzie   No Sugar (Club Mix).mp3
+Street Lady	Gramophonedzie   					6148731	383						19/02/2013 19:02	08/11/2012 20:26	128	32000		MPEG audio file			3	13/01/2013 18:41				B:\Music\Gramophonedzie   Street Lady (Original Mix).mp3
+Why Don't You 	Gramophonedzie   					3396028	211						19/02/2013 19:02	08/11/2012 20:26	128	32000		MPEG audio file			5	23/04/2013 15:25	2	07/05/2013 14:03		B:\Music\Gramophonedzie   Why Don't You (Dubstep Mix) [HQ].mp3
+Sweet Child O  Mine	Guns N Roses 					5847363	365						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			3	22/04/2013 20:03	1	08/03/2013 12:38		B:\Music\Guns N Roses Sweet Child O  Mine{LYRICS IN VIDEO}.mp3
+Knocking On Heaven's Door	Guns N Roses   					4643480	289						19/02/2013 19:02	09/02/2013 13:17	128	32000		MPEG audio file			3	25/04/2013 13:47	2	09/05/2013 18:41		B:\Music\Guns N Roses   Knocking On Heaven's Door.mp3
+Paradise City	Guns N' Roses   					6567885	409						19/02/2013 19:02	08/02/2013 16:42	128	32000		MPEG audio file			4	21/04/2013 17:32	1	02/03/2013 18:49		B:\Music\Guns N' Roses   Paradise City.mp3
+Stereo Hearts	Gym Class Heroes ft Adam Levine					3436378	213						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			7	08/11/2012 12:32				B:\Music\Gym Class Heroes Stereo Hearts ft Adam Levine OFFICIAL VIDEO.mp3
+Since You Been Gone	Head East					1650783	205						04/09/2012 23:19	16/07/2012 21:22	64	22050		MPEG audio file			7	09/05/2013 20:40	1	14/10/2012 19:40		B:\Music\Head East - Since You Been Gone.mp3
+Ring a Ding Baby!	Icky   					3417335	212						19/02/2013 19:08	08/11/2012 23:53	128	32000		MPEG audio file			2	11/12/2012 23:12	1	07/05/2013 14:04		B:\Music\Icky   Ring a Ding Baby!.mp3
+ It's your thing 	The Isley Brothers					1355711	168						04/09/2012 23:19	16/07/2012 21:22	64	22050		MPEG audio file			8	23/04/2013 09:05	2	07/05/2013 14:04		B:\Music\It 39s your thing -The Isley Brothers.mp3
+Fight The Power 	The Isley Brothers 					5142478	320						30/11/2012 21:49	16/07/2012 21:22	128	44100		MPEG audio file			11	07/05/2013 10:53	1	19/02/2013 19:58		B:\Music\The Isley Brothers - Fight The Power (Part 1 &amp; 2) (1975) (1).mp3
+Summer Breeze 	The Isley Brothers 					6050283	377						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			7	03/04/2013 10:04				B:\Music\Summer Breeze - The Isley Brothers (1).mp3
+Sex Machine Get on up	James Brown   					5077276	316						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			8	01/04/2013 20:10	2	21/02/2013 18:14		B:\Music\James Brown   Sex Machine Get on up.mp3
+Are You Gonna Be My Girl	Jet					3664984	228						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			10	07/05/2013 16:30	1	19/04/2013 12:51		B:\Music\Jet - Are You Gonna Be My Girl.mp3
+You Can Get It If You Really Want	Jimmy Cliff					2632976	163			1	12		23/03/2008 21:29	16/07/2012 21:23	128	44100		AAC audio file			9	09/05/2013 17:11	1	08/10/2012 17:03		B:\Music\You Can Get It If You Really Want.m4a
+Many Rivers To Cross	Jimmy Cliff					2946908	182			4	12		04/09/2012 23:08	16/07/2012 21:23	128	44100		AAC audio file			4	22/04/2013 16:05	1	05/03/2013 17:47		B:\Music\Many Rivers To Cross.m4a
+The Harder They Come	Jimmy Cliff					3615377	223			6	12		04/09/2012 23:09	16/07/2012 21:23	128	44100		AAC audio file			7	18/04/2013 12:20				B:\Music\The Harder They Come.m4a
+Sitting In Limbo	Jimmy Cliff					2131253	127			10	12		23/03/2008 21:42	16/07/2012 21:23	128	44100		AAC audio file			9	09/05/2013 23:19	1	28/02/2013 16:45		B:\Music\Sitting In Limbo.m4a
+Just A Small Town Girl	Journey					4033626	251						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file								B:\Music\JOURNEY-JUST A SMALL TOWN GIRL.mp3
+Civilization	Justice					3657035	227						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			15	08/05/2013 19:04	2	03/04/2013 11:43		B:\Music\Justice - Civilization.mp3
+DVNO	Justice					3787848	235						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			12	09/05/2013 22:27	1	26/04/2013 12:53		B:\Music\Justice - DVNO.mp3
+Dance	Justice 					2920167	181						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			15	10/05/2013 22:58				B:\Music\Justice - DANCE HD.mp3
+Helix 	Justice 					4285640	266						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			9	09/05/2013 21:26	1	17/07/2012 12:17		B:\Music\Justice - Helix Full version.mp3
+NewJack	Justice 					3483578	216						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			15	22/04/2013 13:25				B:\Music\Justice - NewJack.mp3
+One minute to midnight	Justice 					3548376	220						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			12	26/04/2013 13:37	1	01/04/2013 20:58		B:\Music\Justice - One minute to midnight.mp3
+WALKING ON SUNSHINE	KATRINA & THE WAVES		Top 1000 Pop Hits of the 80's		Pop	5650473	235						04/09/2012 23:21	16/07/2012 21:22	192	44100		MPEG audio file			11	08/05/2013 20:13				B:\Music\KATRINA_%26_THE_WAVES_-_WALKING_ON_SUNSHINE.mp3
+Gimme Shelter 	Keith Richards					4516997	282						19/02/2013 19:02	30/11/2012 21:42	128	32000		MPEG audio file			8	09/05/2013 22:23	3	07/05/2013 14:10		B:\Music\Gimme Shelter   Keith Richards (ON VOCALS).mp3
+Struggle   	Keith Richards					4078287	254						19/02/2013 19:19	30/11/2012 21:42	128	32000		MPEG audio file			6	14/04/2013 15:22	2	07/05/2013 15:33		B:\Music\Struggle   Keith Richards.mp3
+Take It So Hard  	 Keith Richards					3132293	195						19/02/2013 19:19	30/11/2012 21:42	128	32000		MPEG audio file			5	22/04/2013 16:44	2	07/05/2013 14:10		B:\Music\Take It So Hard   Keith Richards.mp3
+Too Rude  	 Keith Richards					7176015	448						19/02/2013 19:21	30/11/2012 21:42	128	32000		MPEG audio file			4	12/03/2013 14:21	1	07/05/2013 14:11		B:\Music\Too Rude   Keith Richards.mp3
+Demon	Keith Richards   					4586118	286						19/02/2013 19:09	30/11/2012 21:42	128	32000		MPEG audio file			6	09/05/2013 17:04	1	07/05/2013 14:11		B:\Music\Keith Richards   Demon.mp3
+Locked Away	Keith Richards    					5606790	350						19/02/2013 19:09	30/11/2012 21:42	128	32000		MPEG audio file			7	09/05/2013 20:31	1	07/05/2013 14:11		B:\Music\Keith Richards    Locked Away.mp3
+Ooh La	The Kooks	Hugh Harris/Luke Pritchard/Max Rafferty/Paul Carred/Paul Garred	Inside in Inside Out		Indie	5618633	210			5		2006	04/09/2012 23:27	16/07/2012 21:22	212	44100		MPEG audio file		No comments.	12	23/04/2013 14:55	1	28/02/2013 16:43		B:\Music\Ooh La.mp3
+Naive	The Kooks					3346068	208						08/02/2013 23:24	16/07/2012 21:22	128	44100		MPEG audio file			9	23/03/2013 13:37	2	14/04/2013 16:54		B:\Music\Naive.mp3
+She Moves In Her Own Way	The Kooks					2728971	170						30/11/2012 21:49	16/07/2012 21:22	128	44100		MPEG audio file			7	08/05/2013 20:05	2	28/02/2013 16:52		B:\Music\She Moves In Her Own Way ).mp3
+Suddenly I See	KT Tunstall	KT Tunstall	Eye to The Telescope		Adult Alternative	4847837	201	1		4		2006	04/09/2012 23:21	16/07/2012 21:22	192	44100		MPEG audio file			5	09/05/2013 09:19	1	28/02/2013 16:53		B:\Music\KT Tunstall - Suddenly I See.mp3
+You Always Make Me Smile	Kyle Andrews 					2895949	180						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			3	09/05/2013 21:32	1	20/06/2012 22:01		B:\Music\Kyle Andrews You Always Make Me Smile Official Video.mp3
+I Want A Little Doggie 	Lena Horne 					3993240	249						30/11/2012 21:47	31/07/2012 20:36	128	44100		MPEG audio file			11	17/04/2013 10:06				B:\Music\Lena Horne - I Want A Little Doggie (Remix).mp3
+Dedication to My Ex	Lloyd					2962810	184						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			8	09/05/2013 18:49	1	07/05/2013 14:12		B:\Music\Lloyd - Dedication to my ex (clean) lyrics on screen.mp3
+Dancing In The Street	Martha Reeves & The Vandellas	Marvin Gaye/William Mickey Stevenson/Ivy Jo Hunter	Motown 50 [Disc 1]		R&B	5287935	156	1	3	2	24	1964	30/12/2011 10:58	16/07/2012 21:22	256	44100		AAC audio file			8	10/05/2013 00:58	1	07/05/2013 14:14		B:\Music\Dancing In The Street.m4a
+Nowhere To Run	Martha Reeves & The Vandellas	Edward Holland Jr./Lamont Dozier/Brian Holland	Motown 50 [Disc 1]		R&B	5869437	177	1	3	9	24	1965	04/09/2012 23:09	16/07/2012 21:22	256	44100		AAC audio file			3	09/05/2013 22:41				B:\Music\Nowhere To Run.m4a
+Jimmy Mack	Martha Reeves & The Vandellas	Brian Holland/Lamont Dozier/Edward Holland Jr.	Motown 50 [Disc 1]		R&B	5686017	174	1	3	10	24	1967	04/09/2012 23:09	16/07/2012 21:22	256	44100		AAC audio file			2	15/12/2012 12:07	1	07/05/2013 14:14		B:\Music\Jimmy Mack.m4a
+It Takes Two	Marvin Gaye	William Mickey Stevenson/Sylvia Moy	Motown 50 [Disc 1]		R&B	6051197	176	1	3	14	24	1966	04/09/2012 23:09	16/07/2012 21:22	256	44100		AAC audio file			4	15/12/2012 12:04	4	21/04/2013 12:02		B:\Music\It Takes Two.m4a
+You Are Everything	Marvin Gaye	Thom Bell/Linda Creed	Motown 50 [Disc 1]		R&B	6384753	174	1	3	23	24	1973	04/09/2012 23:10	16/07/2012 21:22	256	44100		AAC audio file			5	09/05/2013 22:30	4	22/09/2012 18:43		B:\Music\You Are Everything.m4a
+I Heard It Through The Grapevine	Marvin Gaye					3199811	199						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			8	08/05/2013 19:25	4	26/04/2013 12:52		B:\Music\Marvin Gaye - I Heard It Through The Grapevine.mp3
+Lets Get It On	Marvin Gaye					3886918	242						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			2	23/07/2012 07:58				B:\Music\Marvin Gaye - Lets Get It On.mp3
+Aint no mountain high enough	Marvin Gaye and Tammi Terrell					2371776	149			15			30/04/2009 04:43	16/07/2012 21:23	128	44100		AAC audio file			4	09/05/2013 20:09	2	16/04/2013 11:52		B:\Music\Aint no mountain high enough.m4a
+My Guy	Mary Wells	Smokey Robinson	Motown 50 [Disc 1]		R&B	5525264	169	1	3	15	24	1964	04/09/2012 23:09	16/07/2012 21:22	256	44100		AAC audio file			5	09/05/2013 19:04	2	28/02/2013 16:49		B:\Music\My Guy.m4a
+Big Calm	Morcheeba					5769816	359						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			15	03/05/2013 15:10	3	21/04/2013 19:34		B:\Music\MORCHEEBA & NOSAJ THE GREAT - Big Calm.mp3
+Love is rare.	Morcheeba					3938742	245						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			14	09/05/2013 20:06	3	21/04/2013 19:31		B:\Music\Morcheeba-Love is rare..mp3
+Rome Wasn't Built In A Day 	Morcheeba					3540441	220						30/11/2012 21:47	16/07/2012 21:22	128	22050		MPEG audio file			18	09/05/2013 14:01				B:\Music\Morcheeba - Rome Wasn't Built In A Day (1).mp3
+The Sea	Morcheeba					5623948	350						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			18	09/05/2013 19:33	2	21/04/2013 20:10		B:\Music\Morcheeba-The Sea.mp3
+Be Yourself	Morcheeba 					3159247	196						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			15	14/04/2013 12:48	1	06/03/2013 08:47		B:\Music\Morcheeba - Be Yourself.mp3
+Coming Down Gently	Morcheeba 					4144802	258						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			15	02/05/2013 13:21				B:\Music\Morcheeba - Coming Down Gently.mp3
+Get a Move On	Mr Scruff 					3297206	205						30/11/2012 21:47	29/07/2012 23:28	128	44100		MPEG audio file			13	19/04/2013 12:47	3	05/03/2013 15:44		B:\Music\Mr Scruff - Get a Move On.mp3
+Spandex Man	Mr Scruff 					4519451	282						30/11/2012 21:47	30/07/2012 22:26	128	44100		MPEG audio file			10	09/05/2013 19:15				B:\Music\Mr Scruff - Spandex Man.mp3
+The Cave	Mumford & Sons 					4424830	275						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			7	09/05/2013 19:41	1	16/04/2013 13:24		B:\Music\Mumford & Sons - The Cave.mp3
+ Little Lion Man	Mumford & Sons 					3976368	247						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			11	08/05/2013 19:08	1	17/10/2012 15:25		B:\Music\Mumford & Sons - Little Lion Man.mp3
+Roll Away Your Stone	Mumford & Sons 					4164453	259						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			8	15/04/2013 17:36	4	17/04/2013 09:57		B:\Music\Mumford & Sons - Roll Away Your Stone.mp3
+Winter Winds	Mumford & Sons 					3552971	221						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			8	05/03/2013 12:17	1	23/04/2013 13:01		B:\Music\Mumford & Sons - Winter Winds.mp3
+Sigh No More	Mumford and Sons					3337305	207						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			8	09/05/2013 23:30	2	30/08/2012 11:59		B:\Music\Mumford and Sons - Sigh No More.mp3
+I Gave You All	Mumford And Sons 					4177406	260						30/11/2012 21:47	16/07/2012 21:22	128	22050		MPEG audio file			9	29/03/2013 15:24	1	15/07/2012 10:52		B:\Music\Mumford And Sons - I Gave You All.mp3
+Supermassive Black hole	Muse	Matthew Bellamy	Black Holes and Revelations		Alternative	5032275	209			1		2006	04/09/2012 23:23	16/07/2012 21:23	192	44100		MPEG audio file		 00000F61 00000DA4 000052C9 00004A6F 0002712E 0002712E 00008000 00008000 0000273E 0000273E	3	04/10/2012 14:33	2	12/03/2013 14:04		B:\Music\Muse - Supermassive Black Hole.mp3
+Feeling Good	Muse					1598317	199						04/09/2012 23:23	16/07/2012 21:23	64	22050		MPEG audio file			3	26/04/2013 12:11	3	15/04/2013 16:56		B:\Music\Muse - Feeling Good.mp3
+Hysteria	Muse					3571137	222						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			4	10/05/2013 00:21	2	19/04/2013 12:43		B:\Music\Muse-Hysteria Official Video.mp3
+Starlight	Muse					4040088	252						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			4	07/05/2013 11:55	1	02/03/2013 18:54		B:\Music\MUSE - Starlight (Video).mp3
+Time Is Running Out 	Muse					3816491	238						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			5	03/04/2013 10:47				B:\Music\Muse_ Time Is Running Out   Lyrics.mp3
+Uprising 	Muse					4065587	253						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			4	26/04/2013 13:31	2	12/03/2013 10:44		B:\Music\Muse - Uprising (Video ufficiale) con sottotitoli.mp3
+Yes Sir Boss	Not Guilty					3739658	232						19/11/2012 00:52	31/07/2012 17:44	128	44100		MPEG audio file			16	22/04/2013 17:31	1	15/10/2012 16:14		B:\Music\Yes Sir Boss - Not Guilty (Official Video).mp3
+Roll With It	Oasis	Noel Gallagher	(What's The Story) Morning Glory?		Rock	3834393	241	1	1	2	12	1995	04/09/2012 23:08	16/07/2012 21:23	125	44100		AAC audio file					1	28/02/2013 16:56		B:\Music\Roll With It.m4a
+Little Talks	Of Monsters and Men					4080399	254						30/11/2012 21:47	16/07/2012 21:22	128	44100	254	MPEG audio file			14	09/05/2013 18:46	2	08/04/2013 08:36		B:\Music\Of Monsters and Men - Little Talks.mp3
+Dirty Paws	Of Monsters And Men 					4314914	268						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			16	29/03/2013 17:10	1	07/06/2012 20:07		B:\Music\Of Monsters And Men - Dirty Paws.mp3
+King And Lionheart	Of Monsters And Men 					4463715	278						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			14	10/05/2013 00:30	1	08/10/2012 18:55		B:\Music\Of Monsters And Men - King And Lionheart.mp3
+Lakehouse	Of Monsters And Men 					5535353	345						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			11	20/02/2013 19:02	1	09/05/2013 18:41		B:\Music\Of Monsters And Men - Lakehouse.mp3
+Six Weeks	Of Monsters and Men 					5327172	332						30/11/2012 21:47	16/07/2012 21:22	128	44100	254	MPEG audio file			11	14/04/2013 15:10				B:\Music\Of Monsters  Men - Six Weeks.mp3
+My Girl	Otis Redding					2869600	178						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			8	22/04/2013 16:41	2	16/12/2012 09:21		B:\Music\Otis Redding - My Girl.mp3
+Hard To Handle	Otis Redding 					2246431	139						30/11/2012 21:47	16/07/2012 21:22	128	44100		MPEG audio file			12	02/05/2013 14:14	1	16/04/2013 11:52		B:\Music\Otis Redding - Hard To Handle.mp3
+Roses	OutKast					2978949	372						04/09/2012 23:25	16/07/2012 21:23	64	22050		MPEG audio file			3	03/04/2013 11:36	3	09/05/2013 18:41		B:\Music\Roses.mp3
+Libella Swing	Parov Stelar					4595519	286						30/11/2012 21:47	31/07/2012 20:07	128	44100		MPEG audio file			17	09/05/2013 09:15	2	07/05/2013 14:15		B:\Music\Parov Stelar - Libella Swing.mp3
+Matilda	Parov Stelar					3778409	235						30/11/2012 21:47	31/07/2012 20:12	128	44100		MPEG audio file			14	09/05/2013 13:54	1	07/05/2013 14:15		B:\Music\Parov Stelar - Matilda.mp3
+Monster	Parov Stelar					5043435	314						30/11/2012 21:47	31/07/2012 20:13	128	44100		MPEG audio file			13	22/04/2013 12:58				B:\Music\Parov Stelar - Monster.mp3
+Catgroove	Parov Stelar 					3846118	240						30/11/2012 21:47	31/07/2012 20:07	128	44100		MPEG audio file			13	08/05/2013 18:22	2	04/04/2013 09:45		B:\Music\Parov Stelar - Catgroove.mp3
+Chambermaid Swing	Parov Stelar 					5538853	345						30/11/2012 21:47	31/07/2012 20:09	128	22050		MPEG audio file			13	09/05/2013 23:50				B:\Music\Parov Stelar - Chambermaid Swing (full song).mp3
+Heartbreaker	Pat Benatar 					3363591	209						19/02/2013 19:18	08/02/2013 16:45	128	32000		MPEG audio file			12	09/05/2013 17:38				B:\Music\Pat Benatar Heartbreaker.mp3
+ Hit Me With Your Best Shot	Pat Benatar 					5567584	347						19/02/2013 19:18	08/02/2013 16:45	128	32000		MPEG audio file			5	10/05/2013 00:36				B:\Music\Pat Benatar  Hit Me With Your Best Shot.mp3
+ I Need A Lover	Pat Benatar  					3372236	210						19/02/2013 19:17	08/02/2013 16:43	128	32000		MPEG audio file			8	08/05/2013 18:53				B:\Music\Pat Benatar   I Need A Lover.mp3
+ Invincible	Pat Benatar  					4131976	257						19/02/2013 19:17	08/02/2013 16:44	128	32000		MPEG audio file			7	07/05/2013 11:10	2	28/02/2013 17:20		B:\Music\Pat Benatar   Invincible.mp3
+Anxiety	Pat Benatar   					3242053	201						19/02/2013 19:17	08/02/2013 16:43	128	32000		MPEG audio file			4	11/05/2013 22:32	1	13/02/2013 13:17		B:\Music\Pat Benatar   Anxiety (Get Nervous).mp3
+Love Is A Battlefield	Pat Benatar   					5106003	318						19/02/2013 19:18	08/02/2013 16:44	128	32000		MPEG audio file			11	09/05/2013 23:24	1	08/02/2013 16:44		B:\Music\Pat Benatar   Love Is A Battlefield.mp3
+Shadows Of The Night	Pat Benatar   					4547858	283						19/02/2013 19:18	08/02/2013 16:44	128	32000		MPEG audio file			5	21/04/2013 15:13	2	18/04/2013 11:59		B:\Music\Pat Benatar   Shadows Of The Night.mp3
+Sometimes The Good Guys Finish First	Pat Benatar   					4282338	266						19/02/2013 19:18	08/02/2013 16:44	128	32000		MPEG audio file			6	08/05/2013 18:36	2	14/04/2013 16:54		B:\Music\Pat Benatar   Sometimes The Good Guys Finish First.mp3
+We Belong	Pat Benatar   					3505287	218						19/02/2013 19:18	08/02/2013 16:44	128	32000		MPEG audio file			3	22/04/2013 12:29	1	15/04/2013 17:11		B:\Music\Pat Benatar   We Belong.mp3
+Wuthering Heights	Pat Benatar   					4453967	277						19/02/2013 19:18	08/02/2013 16:43	128	32000		MPEG audio file			5	09/05/2013 18:58				B:\Music\Pat Benatar   Wuthering Heights.mp3
+Where is my Mind	Pixies 					3774485	234						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			21	09/05/2013 21:21	1	21/02/2013 19:35		B:\Music\Pixies - Where is my Mind (Fight Club Soundtrack).mp3
+Running Up That Hill 	Placebo 					4779265	297						30/11/2012 21:48	16/07/2012 21:23	128	44100		MPEG audio file			19	09/05/2013 22:14	1	18/03/2013 19:42		B:\Music\Placebo - Running Up That Hill LYRICS HD.mp3
+Fallen Angel	Poison					3783675	235						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			9	16/04/2013 12:11	2	07/05/2013 14:20		B:\Music\Poison - Fallen Angel.mp3
+Nothing But A Good Time	Poison 					3589754	223						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			7	29/03/2013 18:57	1	01/09/2012 10:49		B:\Music\Poison - Nothing But A Good Time.mp3
+I Guess You're Right	The Posies	Darius "Take One" Minwalla/Jon Auer/Ken Stringfellow/Matt Harris	Every Kind of Light		Rock	3453832	212			4		2005	04/09/2012 23:08	16/07/2012 21:23	128	44100		AAC audio file		“I Guess You're Right” performed by The Posies from the CD Every Kind of Light, courtesy of Rykodisc, Inc. Written and composed by Jon Auer, Ken Stringfellow, Darius Minwalla, and Matt Harris. Published by Rykomusic Inc. and Darius Minwalla’s and Matt Har	10	09/05/2013 17:08	2	28/02/2013 16:47		B:\Music\I Guess You're Right.m4a
+Loaded 	Primal Scream					6778326	422						30/11/2012 21:48	16/07/2012 21:22	128	44100	254	MPEG audio file			11	09/05/2013 17:24				B:\Music\Primal Scream - Loaded lyrics.mp3
+Country Girl	Primal Scream 					1822566	237						04/09/2012 23:24	16/07/2012 21:22	8	22050	255	MPEG audio file			7	02/05/2013 19:07	6	12/04/2013 14:51		B:\Music\Primal Scream - Country Girl lyrics.mp3
+Movin On Up 	Primal Scream 					3875182	241						30/11/2012 21:48	16/07/2012 21:22	128	44100	254	MPEG audio file			14	09/05/2013 20:56				B:\Music\Primal Scream - Movin On Up lyrics.mp3
+I Got A Woman	Ray Charles					2824883	175						30/11/2012 21:48	16/07/2012 21:22	128	22050		MPEG audio file			12	10/05/2013 22:55				B:\Music\Ray Charles - I Got A Woman.mp3
+Cant Stop	Red Hot Chili Peppers		By The Way		Rock	6620025	275			7		2002	04/09/2008 01:13	16/07/2012 21:23	192	44100		MPEG audio file			6	25/04/2013 13:54				B:\Music\cantstop.mp3
+Under the bridge	Red Hot Chili Peppers	Red Hot Chili Peppers	Greatest Hits		Rock	6772694	273			1		2003	04/09/2012 23:28	16/07/2012 21:22	198	44100		MPEG audio file		ÜberStandard - UberNet.org	11	09/05/2013 19:56	1	20/08/2012 11:05		B:\Music\Under_the_bridge.mp3
+Californication 	Red Hot Chili Peppers					2415531	321						04/09/2012 23:24	16/07/2012 21:23	8	22050		MPEG audio file			4	28/02/2013 18:38				B:\Music\Red Hot Chili Peppers - Californication.mp3
+Dani California	Red Hot Chili Peppers					4442514	282			7	21		15/08/2009 07:45	16/07/2012 21:23	128	44100		AAC audio file			4	29/03/2013 19:55	1	21/07/2012 13:49		B:\Music\Dani California.m4a
+Snow	Red Hot Chili Peppers 					5373391	335						30/11/2012 21:48	16/07/2012 21:23	128	44100		MPEG audio file			13	07/05/2013 16:14	1	07/05/2013 14:21		B:\Music\Snow - Red Hot Chili Peppers - Lyrics.mp3
+Tell Me Baby	Red Hot Chili Peppers 					3979923	248						30/11/2012 21:48	16/07/2012 21:23	128	44100		MPEG audio file			8	22/04/2013 14:03				B:\Music\Tell Me Baby-Red Hot Chili Peppers (lyrics).mp3
+Ghostwriter	RJD2 					5107768	318						30/11/2012 21:48	16/07/2012 21:23	128	22050		MPEG audio file			6	08/05/2013 19:57	1	07/05/2013 14:21		B:\Music\RJD2 - Ghostwriter.mp3
+Let It Loose	The Rolling Stones					5106245	318						19/02/2013 19:19	30/11/2012 21:42	128	32000		MPEG audio file			7	24/04/2013 10:27				B:\Music\THE ROLLING STONES  14 Let It Loose   (Exile On Main Street)   (1972).mp3
+ Paint it Black	The Rolling Stones					3575334	223						02/03/2013 18:57	16/07/2012 21:22	128	44100		MPEG audio file			6	26/04/2013 13:16	3	21/04/2013 19:29		B:\Music\Rolling Stones- Paint it Black.mp3
+Satisfaction	The Rolling Stones					3898169	242						02/03/2013 18:57	16/07/2012 21:22	128	44100	254	MPEG audio file			5	09/05/2013 21:18				B:\Music\Satisfaction-Rolling Stones.mp3
+Sympathy For The Devil	The Rolling Stones					6322795	394						02/03/2013 18:58	16/07/2012 21:22	128	44100		MPEG audio file			10	06/03/2013 14:59				B:\Music\Rolling Stones- Sympathy For The Devil.mp3
+Brown Sugar	The Rolling Stones 					3786574	235						02/03/2013 18:58	16/07/2012 21:22	128	44100	254	MPEG audio file			8	11/04/2013 12:34	1	06/03/2013 08:47		B:\Music\The Rolling Stones Brown Sugar.mp3
+Gimme Shelter	The Rolling Stones 					4455309	277						02/03/2013 18:58	16/07/2012 21:22	128	44100	254	MPEG audio file			10	17/03/2013 14:29				B:\Music\Rolling Stones - Gimme Shelter.mp3
+The Tracks of My Tears	Smokey Robinson and The Miracles		Motown 50 [Disc 1]			2803952	174						30/11/2012 21:49	16/07/2012 21:22	128	44100	254	MPEG audio file			7	08/05/2013 18:11	2	07/05/2013 14:24		B:\Music\The Tracks of My Tears - Smokey Robinson  The Miracles.mp3
+The Tears Of A Clown	Smokey Robinson and The Miracles	Smokey Robinson/Stevie Wonder/Henry Cosby	Motown 50 [Disc 1]		R&B	6324863	185	1	3	12	24	1970	04/09/2012 23:09	16/07/2012 21:22	256	44100		AAC audio file			8	09/05/2013 19:45	2	07/05/2013 14:24		B:\Music\The Tears Of A Clown.m4a
+You Could Be Happy Lyrics	Snow Patrol					2958597	184						30/11/2012 21:48	16/07/2012 21:22	128	44100	254	MPEG audio file			12	06/03/2013 14:07	1	07/05/2013 15:33		B:\Music\Snow Patrol - You Could Be Happy Lyrics.mp3
+You're All I Have	Snow Patrol					3681248	229						30/11/2012 21:48	16/07/2012 21:22	128	44100	254	MPEG audio file			10	22/04/2013 15:47	2	05/03/2013 12:22		B:\Music\Snow Patrol - You 39re All I Have.mp3
+Just Say Yes	Snow Patrol 					3935786	245						30/11/2012 21:48	16/07/2012 21:22	128	44100	254	MPEG audio file			9	09/05/2013 20:44				B:\Music\Snow Patrol - Just Say Yes.mp3
+Open Your Eyes	Snow Patrol 					5623087	350						30/11/2012 21:48	16/07/2012 21:22	128	44100	254	MPEG audio file			15	07/05/2013 16:27				B:\Music\Snow Patrol - Open Your Eyes.mp3
+Run	Snow Patrol 					4275192	266						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			8	22/04/2013 16:17	3	02/05/2013 14:24		B:\Music\Snow Patrol - Run.mp3
+Krack	Soulwax 					2465845	153						30/11/2012 21:48	16/07/2012 21:23	128	44100		MPEG audio file			11	09/05/2013 23:59	2	07/05/2013 14:25		B:\Music\Soulwax - Krack (Original Version).mp3
+E-talking	Soulwax  					3453488	214						30/11/2012 21:48	16/07/2012 21:23	128	44100		MPEG audio file			9	23/04/2013 15:25	2	07/05/2013 14:25		B:\Music\soulwax  E-talking.mp3
+Signed, Sealed, Delivered I'm Yours	Stevie Wonder	Lee Garrett/Lulu Mae Hardaway/Syreeta Wright/Stevie Wonder	Motown 50 [Disc 1]		R&B	6070606	160	1	3	21	24	1970	04/09/2012 23:10	16/07/2012 21:22	256	44100		AAC audio file			3	10/05/2013 00:39				B:\Music\Signed, Sealed, Delivered.m4a
+As	Stevie Wonder					6926726	432						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			14	18/04/2013 13:58	4	23/04/2013 09:52		B:\Music\Stevie Wonder - As.mp3
+Higher Ground	Stevie Wonder					3662057	227						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			18	23/04/2013 14:59	2	19/02/2013 20:23		B:\Music\Stevie Wonder Higher Ground.mp3
+I Wish	Stevie Wonder					4048663	252						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			14	08/05/2013 20:03	1	19/02/2013 20:07		B:\Music\Stevie Wonder - I Wish the original version.mp3
+Isn't She Lovely	Stevie Wonder					3183915	198						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			2	25/06/2012 12:00	1	19/02/2013 20:08		B:\Music\Stevie Wonder - Isn 39t She Lovely.mp3
+Superstition	Stevie Wonder					1946654	242						04/09/2012 23:26	16/07/2012 21:22	64	22050		MPEG audio file			6	16/12/2012 09:51	3	09/05/2013 09:10		B:\Music\Stevie Wonder - Superstition.mp3
+For Once in my Life 	Stevie Wonder 					2754258	171						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			7	29/03/2013 15:20	5	19/02/2013 20:23		B:\Music\Stevie Wonder - For Once in my Life - The Definitive Collection.mp3
+I Just Called To Say I Love You	Stevie Wonder 					6150605	383						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			1	19/06/2012 22:39	1	19/02/2013 20:07		B:\Music\Stevie Wonder I Just Called To Say I Love You.mp3
+Sir Duke	Stevie Wonder 					3816698	237						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			10	07/05/2013 12:15	2	22/04/2013 16:45		B:\Music\Stevie Wonder - Sir Duke.mp3
+Eye Of The Tiger	Survivor					3944596	245						30/11/2012 21:48	16/07/2012 21:22	128	44100		MPEG audio file			7	09/05/2013 19:37	2	21/04/2013 19:20		B:\Music\Survivor - Eye Of The Tiger (with lyrics).mp3
+Hot Love	T.Rex	Marc Bolan	Hits!		Rock	11366616	299	1	1	1	20	1971	13/03/2013 19:16	16/07/2012 21:22	256	44100		AAC audio file			8	29/03/2013 16:52	1	28/02/2013 16:45		B:\Music\Hot Love.m4a
+Ride A White Swan	T.Rex	Marc Bolan	Hits!		Rock	4702256	135	1	1	2	20	1970	13/03/2013 19:21	16/07/2012 21:22	256	44100		AAC audio file			10	09/05/2013 19:10				B:\Music\Ride A White Swan.m4a
+Get It On	T.Rex	Marc Bolan	Hits!		Rock	9768334	266	1	1	3	20	1971	13/03/2013 19:22	16/07/2012 21:22	256	44100		AAC audio file			6	09/05/2013 22:46				B:\Music\Get It On.m4a
+Telegram Sam	T.Rex	Marc Bolan	Hits!		Rock	7327319	225	1	1	4	20	1972	13/03/2013 19:24	16/07/2012 21:22	256	44100		AAC audio file			6	03/04/2013 09:37				B:\Music\Telegram Sam.m4a
+Metal Guru	T.Rex	Marc Bolan	Hits!		Rock	4960938	148	1	1	5	20	1972	13/03/2013 19:25	16/07/2012 21:22	256	44100		AAC audio file			5	12/04/2013 14:36	2	12/03/2013 14:38		B:\Music\Metal Guru.m4a
+Children Of The Revolution	T.Rex	Marc Bolan	Hits!		Rock	4863506	149	1	1	9	20	1972	13/03/2013 19:19	16/07/2012 21:22	256	44100		AAC audio file			8	07/05/2013 11:25	2	28/02/2013 16:47		B:\Music\Children Of The Revolution.m4a
+Solid Gold Easy Action	T.Rex	Marc Bolan	Hits!		Rock	4586077	141	1	1	10	20	1972	13/03/2013 19:20	16/07/2012 21:22	256	44100		AAC audio file			5	09/05/2013 20:11	2	12/04/2013 13:59		B:\Music\Solid Gold Easy Action.m4a
+I Love To Boogie	T.Rex	Marc Bolan	Hits!		Rock	4422543	136	1	1	20	20	1976	13/03/2013 19:21	16/07/2012 21:22	256	44100		AAC audio file			1	22/04/2013 15:36	3	11/05/2013 22:15		B:\Music\I Love To Boogie.m4a
+Get Ready	The Temptations	Smokey Robinson	Motown 50 [Disc 1]		R&B	5112608	153	1	3	6	24	1966	04/09/2012 23:09	16/07/2012 21:22	256	44100		AAC audio file			6	26/04/2013 12:58	1	28/02/2013 16:48		B:\Music\Get Ready.m4a
+Boys Are Back In Town 	Thin Lizzy					6362289	264						30/11/2012 21:46	16/07/2012 21:22	192	44100		MPEG audio file								B:\Music\Boys Are Back In Town Thin Lizzy.mp3
+Funky Vodka 	TJR   					5825006	363						19/02/2013 19:21	08/11/2012 20:26	128	32000		MPEG audio file			4	10/05/2013 00:05	1	07/05/2013 14:31		B:\Music\TJR   Funky Vodka (Original Mix).mp3
+Follow me 	Uncle Kracker					3646297	226						30/11/2012 21:46	16/07/2012 21:22	128	44100		MPEG audio file			14	29/03/2013 15:31	2	22/04/2013 19:57		B:\Music\Follow me - Uncle Kracker.mp3
+Needle In A Haystack	The Velvelettes	Norman Whitfield/William Mickey Stevenson	Motown 50 [Disc 1]		R&B	4922969	151	1	3	5	24	1964	04/09/2012 23:09	16/07/2012 21:22	256	44100		AAC audio file			2	28/02/2013 17:05	1	02/05/2013 19:20		B:\Music\Needle In A Haystack.m4a
+Make My Day	Waldeck					2753977	171						08/02/2013 23:19	08/11/2012 20:26	128	32000		MPEG audio file			12	09/05/2013 17:24				B:\Music\Make My Day.mp3
+Memories	Waldeck   					3669038	228						19/02/2013 19:22	25/11/2012 14:00	128	32000		MPEG audio file			6	06/05/2013 11:01				B:\Music\Waldeck   Memories.mp3
+Lowrider 	War					4669534	193						30/11/2012 21:47	16/07/2012 21:22	192	44100		MPEG audio file			8	06/05/2013 11:04	3	07/05/2013 14:32		B:\Music\Lowrider War.mp3
+Buttons	The Weeks					5747242	358						19/02/2013 19:05	16/07/2012 23:18	128	44100		MPEG audio file			13	07/05/2013 14:38				B:\Music\Weeks - Buttons.mp3
+Teenage Dirtbag	Wheatus					1932734	244						04/09/2012 23:26	16/07/2012 21:22	8	22050		MPEG audio file			2	05/07/2012 10:35				B:\Music\Teenage Dirtbag.mp3
+Seven Nation Army	White stripes					1907946	238						04/09/2012 23:25	16/07/2012 21:23	64	22050		MPEG audio file			8	23/04/2013 15:09	2	06/05/2013 10:55		B:\Music\Seven Nation Army.mp3
+Traveling Song	Will.I.am					3464476	215						30/11/2012 21:50	16/07/2012 21:22	128	44100		MPEG audio file			19	08/05/2013 19:00	1	21/02/2013 19:35		B:\Music\Traveling Song from Madagascar 2 - Will.I.am.mp3
+Crystalised	The XX					3231106	201						30/11/2012 21:49	16/07/2012 21:22	128	44100	254	MPEG audio file			11	08/05/2013 19:52				B:\Music\The xx - Crystalised.mp3
+Intro	The XX					2063328	128						30/11/2012 21:49	16/07/2012 21:22	128	44100	254	MPEG audio file			9	02/05/2013 12:10	1	09/05/2013 16:35		B:\Music\The xx - Intro.mp3
+Islands	The XX					2607511	162						30/11/2012 21:49	16/07/2012 21:22	128	44100	254	MPEG audio file			14	02/05/2013 12:12	1	12/04/2013 12:56		B:\Music\The xx - Islands.mp3
+Night Time	The XX					7046638	219						30/11/2012 21:49	16/07/2012 21:22	256	44100		MPEG audio file			11	02/05/2013 12:16	2	22/10/2012 18:31		B:\Music\The XX - Night Time.mp3
+VCR	The XX					2849928	177						30/11/2012 21:49	16/07/2012 21:22	128	44100	252	MPEG audio file			9	07/05/2013 12:02	2	21/04/2013 19:31		B:\Music\The xx - VCR.mp3
