@@ -1,0 +1,2 @@
+# iTunesPlaylistMusicCopy
+This program was intended to quickly move music files that belonged to a playlist, it saves huge amounts of time, whereas you'd need to  *   locate each song in your library what you wanted to move and copy it over, one by one. Program takes in command line file name, where the file is a iTunes playlist text file, a source directory of the music, and the destination directory for the music files. This program will create a batch file from this and attempt to move these music files from the source to the destination.
